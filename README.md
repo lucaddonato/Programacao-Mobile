@@ -1,5 +1,5 @@
-## Programação Mobile
+# Programação Mobile
 ESPM
 
-# Exercício 1
-🍕 Pizzaria
+## Exercício 1
+🍕 **Pizzaria**

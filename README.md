@@ -6,3 +6,6 @@ ESPM
 
 ## Exercício 2
 🎓 **Pesquisa de Universidades**
+
+## Exercício 3
+🎲 **Par ou Ímpar**

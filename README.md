@@ -9,4 +9,4 @@ ESPM
 🎓 **Pesquisa de Universidades**
 
 ## Exercício 3
-🎲 **Par ou Ímpar**
+🎮 **Par ou Ímpar**
